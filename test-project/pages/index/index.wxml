@@ -1,4 +1,10 @@
 <view>
-  <!-- R7: 电商关键词但类目非电商 -->
+  <!-- 触发 R11 -->
+  <checkbox checked="true" /> 我已阅读并同意《<text>隐私政策</text>》
+
+  <!-- 触发 R13（缺少说明） -->
+  <button open-type="getPhoneNumber">一键登录</button>
+
+  <!-- R7 保留 -->
   <button>立即支付</button>
 </view>
