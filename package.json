@@ -1,0 +1,25 @@
+{
+  "name": "miniaudit",
+  "version": "0.1.0",
+  "description": "微信小程序审核预检工具",
+  "bin": {
+    "miniaudit": "./bin/miniaudit.js"
+  },
+  "scripts": {
+    "dev": "node bin/miniaudit.js"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.28.6",
+    "@babel/traverse": "^7.28.6",
+    "chalk": "^4.1.2",
+    "commander": "^12.1.0",
+    "glob": "^13.0.0"
+  },
+  "keywords": [
+    "wechat",
+    "miniprogram",
+    "audit",
+    "lint"
+  ],
+  "license": "MIT"
+}

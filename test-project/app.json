@@ -1,0 +1,10 @@
+{
+  "pages": ["pages/index/index"],
+  "window": {
+    "navigationBarTitleText": "测试项目"
+  },
+  "permission": {
+    "scope": []
+  },
+  "category": "3"
+}
