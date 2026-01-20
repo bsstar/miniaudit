@@ -13,7 +13,7 @@ const program = new Command();
 
 program
     .name('miniaudit')
-    .description(chalk.bold.blue('微信小程序审核预检工具 —— 提审前自动排查 10 大雷区'))
+    .description(chalk.bold.blue('微信小程序审核预检工具 —— 提审前自动排查 13 大雷区'))
     .version('0.1.0')
     // 必选参数：项目路径
     .argument('<projectPath>', '小程序项目根目录路径')
