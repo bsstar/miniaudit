@@ -1,7 +1,7 @@
 {
   "name": "miniaudit",
-  "version": "0.1.0",
-  "description": "微信小程序审核预检工具",
+  "version": "1.0.0",
+  "description": "微信小程序提审前雷区扫描仪",
   "bin": {
     "miniaudit": "./bin/miniaudit.js"
   },
@@ -15,11 +15,14 @@
     "commander": "^12.1.0",
     "glob": "^13.0.0"
   },
+  "files": ["bin", "lib", "LICENSE"],
   "keywords": [
     "wechat",
     "miniprogram",
     "audit",
-    "lint"
+    "lint",
+    "privacy",
+    "wxapp"
   ],
   "license": "MIT"
 }
