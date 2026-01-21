@@ -149,7 +149,7 @@ miniaudit ./test-project
 
 ## 📜 许可证
 
-MIT © [你的名字]
+MIT © bsstar
 
 ---
 
