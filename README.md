@@ -138,7 +138,7 @@ jobs:
 
 ### 本地测试
 ```bash
-git clone https://github.com/yourname/miniaudit.git
+git clone https://github.com/bsstar/miniaudit.git
 cd miniaudit
 npm install
 npm link
